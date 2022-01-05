@@ -1,0 +1,54 @@
+.checktext{
+    width:400px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+}
+
+.bigText{
+    color: #9499C3
+    ;
+    margin: 0;
+    font-size: 15px;
+    transition: 1s all ease;
+
+    
+
+}
+.bigText:hover{
+    color: white;
+    cursor: pointer;
+}
+.smallText{
+    color:#9499C3;
+    font-size: 15px;
+    margin: 0px;
+    transition: 1s all ease;
+   
+    
+
+}
+.icon{
+    background-color: #9499C3;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    transition: 1s all ease;
+   
+}
+.Texts{
+    display: flex;
+   flex-direction: column;
+    justify-content: space-evenly;
+    width: 250px;
+}
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

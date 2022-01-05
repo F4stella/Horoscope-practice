@@ -1,0 +1,5 @@
+.rocket-container{
+    width:30vw;
+    height: 80vh;
+    transition: 0.3s all ease;
+}

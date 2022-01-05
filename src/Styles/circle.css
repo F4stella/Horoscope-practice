@@ -1,0 +1,30 @@
+.circle{
+    width: 130px;
+    height: 130px;
+
+    border-radius: 50%;
+    border: 2px white dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    color:white;
+    font-size: 15px;
+    font-style: italic;
+    font-weight:lighter;
+}
+.main{
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: 300;
+}
+.dur{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.02);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

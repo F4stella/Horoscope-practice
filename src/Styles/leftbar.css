@@ -1,0 +1,11 @@
+.leftbar {
+    width:30vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    transition: 0.3s all ease;
+   
+    
+}
